@@ -2,7 +2,7 @@
     "name": "ngrock-webpack-plugin",
     "description": "Ngrock for webpack",
     "license": "MIT",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "homepage": "https://github.com/edtoken/ngrock-webpack-plugin",
     "keywords": [
         "ngrock",
