@@ -2,7 +2,7 @@
     "name": "ngrock-webpack-plugin",
     "description": "Ngrock for webpack",
     "license": "MIT",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "homepage": "https://github.com/edtoken/ngrock-webpack-plugin",
     "keywords": [
         "ngrock",
@@ -31,7 +31,7 @@
         "node": ">=0.10.0"
     },
     "scripts": {
-        "test": "mocha --colors --require babel-register --recursive"
+        "test": "mocha --colors"
     },
     "devDependencies": {
         "eslint": "^4.8.0",

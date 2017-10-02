@@ -1,6 +1,6 @@
 #ngrock webpack plugin
 
-Port ngrock to webpack-dev-server
+Port ngrock to webpack-dev-server  
 localhost tunnel for your static build
 
 [![Build Status](https://api.travis-ci.org/edtoken/ngrock-webpack-plugin.svg?branch=master)](https://travis-ci.org/edtoken/ngrock-webpack-plugin)
@@ -47,7 +47,7 @@ webpack-dev-server --progress --port=8080 --hot --inline --config=webpack.config
 
 ## Unit testing
 ```
-...
+npm test
 ```
 
 ## License
