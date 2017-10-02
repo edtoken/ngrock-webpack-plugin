@@ -1,0 +1,51 @@
+{
+    "name": "ngrock-webpack-plugin",
+    "description": "Ngrock for webpack",
+    "license": "MIT",
+    "version": "0.0.0",
+    "homepage": "https://github.com/edtoken/ngrock-webpack-plugin",
+    "keywords": [
+        "ngrock",
+        "webpack",
+        "webpack-dev-server",
+        "webpack tunnel",
+        "localhost tunnel",
+        "frontend",
+        "frontend tunnel"
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://raw.githubusercontent.com/edtoken/ngrock-webpack-plugin/master/LICENSE"
+        }
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/edtoken/ngrock-webpack-plugin"
+    },
+    "author": "Eduard Titov <editied@gmail.com>",
+    "bugs": "https://github.com/edtoken/ngrock-webpack-plugin/issues",
+    "main": "lib/ngrock-webpack-plugin.js",
+    "contributors": [],
+    "engines": {
+        "node": ">=0.10.0"
+    },
+    "scripts": {
+        "test": "mocha --colors --require babel-register --recursive"
+    },
+    "devDependencies": {
+        "eslint": "^4.8.0",
+        "eslint-config-standard": "^10.2.1",
+        "eslint-plugin-promise": "^3.5.0",
+        "eslint-plugin-standard": "^3.0.1",
+        "mocha": "^3.5.3",
+        "should": "^13.1.0",
+        "standard": "^10.0.3"
+    },
+    "files": [
+        "lib/"
+    ],
+    "dependencies": {
+        "ngrok": "^2.2.22"
+    }
+}
