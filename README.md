@@ -4,6 +4,9 @@ Port ngrock to webpack-dev-server
 localhost tunnel for your static build
 
 [![Build Status](https://api.travis-ci.org/edtoken/ngrock-webpack-plugin.svg?branch=master)](https://travis-ci.org/edtoken/ngrock-webpack-plugin)
+[![npm version](https://badge.fury.io/js/ngrock-webpack-plugin.svg)](https://badge.fury.io/js/ngrock-webpack-plugin)
+[![Maintainability](https://api.codeclimate.com/v1/badges/e5d9c3dff376764b7763/maintainability)](https://codeclimate.com/github/edtoken/ngrock-webpack-plugin/maintainability)
+[![HitCount](http://hits.dwyl.com/edtoken/ngrock-webpack-plugin.svg)](http://hits.dwyl.com/edtoken/ngrock-webpack-plugin)
 
 [![NPM](https://nodei.co/npm/ngrock-webpack-plugin.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/ngrock-webpack-plugin/)
 
